@@ -1,6 +1,6 @@
 # Util
 
-CSS and JS ui-foundationsities for next
+CSS and JS ui-foundationsities for FT.com
 
 ## Usage
 
@@ -24,10 +24,10 @@ Hide an element for screens.
 Hide an element for print.
 
 ##### `.n-util-hide-enhanced`
-Hide an element in the enhanced experience
+Hide an element in the enhanced experience.
 
 ##### `.n-util-hide-core`
-Hide an element in the core experience
+Hide an element in the core experience.
 
 #### Text
 
