@@ -1,6 +1,8 @@
 /* global sinon, expect*/
-const util = require('../main');
-const cookieStore = require('../js/cookies');
+
+import * as util from '../main';
+import * as cookieStore from '../js/cookies';
+
 const starterHexString = '1234567890-abcdef';
 
 describe('Sample users', () => {

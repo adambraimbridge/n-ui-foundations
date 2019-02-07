@@ -1,6 +1,6 @@
 /*global require,describe,it,expect*/
 
-const cookieStore = require('../js/cookies');
+import * as cookieStore from '../js/cookies';
 
 describe('Cookie Util', () => {
 
