@@ -55,7 +55,7 @@
     "mocha": "^5.2.0",
     "dom-delegate": "^2.0.0",
     "@financial-times/o-buttons": ">=4.0.0 <6",
-    "@financial-times/o-colors": "^4.0.1",
+    "@financial-times/o-colors": "^4.8.4",
     "@financial-times/o-date": "^2.8.0",
     "@financial-times/o-grid": "^4.4.4",
     "@financial-times/o-icons": ">=4.0.0 <6",
