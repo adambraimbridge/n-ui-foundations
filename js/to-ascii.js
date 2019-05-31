@@ -45,7 +45,7 @@ const mapASCII = {
 
 const nonASCII = /[^\x00-\x7F]+/;
 
-function toASCII (string) {
+export default function toASCII (string) {
 	if (nonASCII.test(string) === false) {
 		return string;
 	}
@@ -64,5 +64,3 @@ function toASCII (string) {
 
 	return string;
 }
-
-module.exports = toASCII;
